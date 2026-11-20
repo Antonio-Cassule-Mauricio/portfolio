@@ -740,7 +740,7 @@ body.has-pointer .spotlight { opacity: 1; }
   color: var(--dim);
 }
 .footer p { margin: 0; }
-.footer__mid { font-family: "Caveat", cursive; font-size: 1.2rem; color: var(--gold); }
+.footer__mid { font-family: "Caveat", cursive; font-size: 1.2rem; color: var(--gold); opacity: 0.8; }
 .footer__links { display: flex; gap: 22px; }
 .footer__links a {
   font-family: "JetBrains Mono", monospace;
